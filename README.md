@@ -8,3 +8,4 @@ Will soon be adding auto light control as well.
 
 Schematics (most up to date) are at:
 
+https://easyeda.com/shermluge/Auto_Watering-b3239fc559c44c7b9574507668b051c3
